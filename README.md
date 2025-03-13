@@ -1,4 +1,7 @@
-## Hi there 👋
+## 🏊‍♂️ Diving into Code & AI—One Bug at a Time! 💻🐞
+
+“Coding is like swimming—sometimes you glide effortlessly, sometimes you just try not to drown.” 🏊‍♂️💻
+
 
 <!--
 **acsontfd/acsontfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
