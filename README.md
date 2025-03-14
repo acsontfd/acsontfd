@@ -3,6 +3,8 @@
 “Coding is like swimming—sometimes you glide effortlessly, sometimes you just try not to drown.” 🏊‍♂️💻
 
 https://www.linkedin.com/in/faang-der-t-350998146/
+
+p.s.: i know why you're here
 <!--
 **acsontfd/acsontfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
