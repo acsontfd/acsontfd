@@ -1,4 +1,4 @@
-## 🏊‍♂️ Diving into Code & AI, One Bug at a Time! 💻🐞
+## Diving into Code & AI, One Bug at a Time! 💻🐞
 
 “Coding is like swimming—sometimes you glide effortlessly, sometimes you just try not to drown.” 🏊‍♂️💻
 
