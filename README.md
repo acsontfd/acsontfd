@@ -4,7 +4,7 @@
 
 https://www.linkedin.com/in/faang-der-t-350998146/
 
-p.s.: don't worry, i stalk my own repos too. 👀
+don't worry, i stalk my own repos too. 👀
 <!--
 **acsontfd/acsontfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
